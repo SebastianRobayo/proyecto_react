@@ -1,4 +1,3 @@
-import './App.css';
 import Listar from "./components/Listar";
 import Crear from "./components/Crear";
 import Editar from "./components/Editar";
